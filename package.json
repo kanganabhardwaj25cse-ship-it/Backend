@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "a tutorial for intro to backend",
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/YOUR-USERNAME/Backend.git"
+  },
+  "license": "ISC",
+  "author": "Kangana",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backendintro/src/index.js",
+    "dev": "nodemon backendintro/src/index.js"
+  }
+}
